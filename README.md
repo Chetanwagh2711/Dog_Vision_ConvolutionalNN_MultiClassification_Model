@@ -13,3 +13,16 @@ The Dog Vision Project is a deep learning-based image classification system desi
 📈 Model evaluation with accuracy and loss metrics
 
 🖥️ User-friendly prediction interface (optional: Streamlit/Web app)
+
+🛠️ Tech Stack
+Programming Language: Python
+
+Libraries & Frameworks:
+
+TensorFlow / Keras 
+
+NumPy, Pandas
+
+Matplotlib
+
+Tools: Jupyter Notebook 
