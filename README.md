@@ -23,8 +23,6 @@ TensorFlow / Keras
 
 NumPy, Pandas Matplotlib
 
-Matplotlib
-
 Tools: Jupyter Notebook 
 
 📂 Dataset
