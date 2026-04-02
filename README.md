@@ -21,7 +21,7 @@ Libraries & Frameworks:
 
 TensorFlow / Keras 
 
-NumPy, Pandas
+NumPy, Pandas Matplotlib
 
 Matplotlib
 
