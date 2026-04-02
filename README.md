@@ -26,3 +26,16 @@ NumPy, Pandas
 Matplotlib
 
 Tools: Jupyter Notebook 
+
+📂 Dataset
+The dataset contains images of multiple dog breeds.
+
+Includes labeled training and testing data.
+
+Data preprocessing steps:
+
+Image resizing
+
+Normalization
+
+Data augmentation
