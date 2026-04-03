@@ -47,3 +47,12 @@ Input: Dog Image
 
 Output: Predicted Breed Name
 
+🔮 Future Improvements
+
+Improve model accuracy with larger dataset
+
+Deploy as a web app using Streamlit
+
+Add real-time camera detection
+
+Expand to more animal species
