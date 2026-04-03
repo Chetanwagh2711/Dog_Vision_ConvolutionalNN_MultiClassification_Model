@@ -42,5 +42,8 @@ Normalization
 Data augmentation
 
 📸 Sample Output
+
 Input: Dog Image
+
 Output: Predicted Breed Name
+
