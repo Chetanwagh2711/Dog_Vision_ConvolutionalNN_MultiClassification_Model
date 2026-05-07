@@ -64,3 +64,31 @@ Expand to more animal species
 Contributions are welcome! Feel free to fork this repo and submit a pull request.
 
 **Dog Vision - Dog Breed Classification using Deep Learning**
+
+## Features
+
+- Multi-class dog breed classification
+- Deep learning model built with TensorFlow and Keras
+- Transfer Learning for improved accuracy
+- Image preprocessing and augmentation
+- Prediction on custom uploaded images
+- Model saving and loading support
+- Visualization of predictions and confidence scores
+- Google Colab compatible
+- Deployment-ready structure
+
+## Dataset
+
+The project uses a dog breed image dataset containing thousands of labeled dog images across multiple breeds.
+
+Dataset Structure:
+
+Dataset/
+│
+├── train/
+├── validation/
+└── test/
+
+Popular datasets:
+- Stanford Dogs Dataset
+- Kaggle Dog Breed Identification Dataset
